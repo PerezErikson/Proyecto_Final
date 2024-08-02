@@ -7,7 +7,6 @@ La aplicación de Blog De Notas es una herramienta diseñada para ayudar a los u
 - **Agregar Notas**: Los usuarios pueden añadir nuevas notas a su lista. Esto les permite registrar rápidamente pensamientos, ideas o información importante.
 - **Editar Notas**: La aplicación permite modificar el contenido de las notas existentes. Si hay cambios o actualizaciones, los usuarios pueden realizarlos fácilmente.
 - **Eliminar Notas**: Facilita la eliminación de notas que ya no son necesarias. Si una nota se completa o ya no es relevante, se puede eliminar de la lista.
-- **Marcar Notas Completadas**: Los usuarios pueden marcar las notas como completadas. Esto ayuda a llevar un registro de las notas importantes y a mantenerse organizados.
 - **Interfaz Amigable**: La aplicación presenta un diseño intuitivo y fácil de usar. La interfaz está diseñada para mejorar la experiencia del usuario y fomentar la productividad.
 
 ## Uso

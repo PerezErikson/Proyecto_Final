@@ -15,7 +15,7 @@ Para utilizar la aplicación:
 
 1. Abre Android Studio.
 2. Haz clic en el botón de reproducción (play) para ejecutar la aplicación.
-3. Utiliza los botones e inputs proporcionados para agregar, editar, eliminar y marcar notas como completadas.
+3. Utiliza los botones e inputs proporcionados para agregar, editar, eliminar.
 
 ## Tecnologías Utilizadas
 

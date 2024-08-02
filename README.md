@@ -1,11 +1,13 @@
+# App Blog De Notas: Resumen
 
-# App Blog De Tarea: Resumen
+La aplicación de Blog De Notas es una herramienta diseñada para ayudar a los usuarios a gestionar y organizar sus notas de manera eficiente. A continuación, se presentan las características clave de esta aplicación:
+
 ## Características Clave
 
-- **Agregar Tareas**: Los usuarios pueden añadir nuevas tareas a su lista. Esto les permite registrar rápidamente las responsabilidades pendientes.
-- **Editar Tareas**: La aplicación permite modificar las descripciones de las tareas existentes. Si hay cambios o actualizaciones, los usuarios pueden realizarlos fácilmente.
-- **Eliminar Tareas**: Facilita la eliminación de tareas que ya no son necesarias. Si una tarea se completa o ya no es relevante, se puede eliminar de la lista.
-- **Marcar Tareas Completadas**: Los usuarios pueden marcar las tareas como completadas. Esto ayuda a llevar un registro de los logros y a mantenerse organizados.
+- **Agregar Notas**: Los usuarios pueden añadir nuevas notas a su lista. Esto les permite registrar rápidamente pensamientos, ideas o información importante.
+- **Editar Notas**: La aplicación permite modificar el contenido de las notas existentes. Si hay cambios o actualizaciones, los usuarios pueden realizarlos fácilmente.
+- **Eliminar Notas**: Facilita la eliminación de notas que ya no son necesarias. Si una nota se completa o ya no es relevante, se puede eliminar de la lista.
+- **Marcar Notas Completadas**: Los usuarios pueden marcar las notas como completadas. Esto ayuda a llevar un registro de las notas importantes y a mantenerse organizados.
 - **Interfaz Amigable**: La aplicación presenta un diseño intuitivo y fácil de usar. La interfaz está diseñada para mejorar la experiencia del usuario y fomentar la productividad.
 
 ## Uso
@@ -14,7 +16,7 @@ Para utilizar la aplicación:
 
 1. Abre Android Studio.
 2. Haz clic en el botón de reproducción (play) para ejecutar la aplicación.
-3. Utiliza los botones e inputs proporcionados para agregar, editar, eliminar y marcar tareas como completadas.
+3. Utiliza los botones e inputs proporcionados para agregar, editar, eliminar y marcar notas como completadas.
 
 ## Tecnologías Utilizadas
 
